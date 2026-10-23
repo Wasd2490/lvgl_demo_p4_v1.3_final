@@ -1,0 +1,9 @@
+
+
+# Load bootloader symbols
+set confirm off
+    add-symbol-file C:/esp/lvgl_demo_p4_v1.3_final/build/bootloader/bootloader.elf
+set confirm on
+
+# Load application symbols
+file C:/esp/lvgl_demo_p4_v1.3_final/build/lvgl_demo_v9.elf
