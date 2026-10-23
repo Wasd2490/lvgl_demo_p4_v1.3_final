@@ -1,4 +1,4 @@
-# 【ESP32-P4 LVGL_V1.3】从 0 到 1 打造车LVGL 音乐播放器（Home/Music/Status 三 Tab）
+# 【ESP32-P4 LVGL_V1.3】从 0 到 1 打造LVGL 音乐播放器（Home/Music/Status 三 Tab）
 
 > 硬件：Waveshare ESP32-P4-WIFI6-Touch-LCD-7B（7寸 1024×600 MIPI DSI 触摸屏）
 > 框架：ESP-IDF v5.5.5 + LVGL 9.5.0 + BSP 3.0.1
